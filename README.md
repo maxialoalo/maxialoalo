@@ -1,8 +1,8 @@
 <h1>Hola! soy Maximiliano Alonso <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 <h2>¡Bienvenido a mi espacio de desarrollo en GitHub! Soy un apasionado desarrollador de software con experiencia en una variedad de tecnologías. Mi enfoque principal es Java, pero me encanta explorar y aprender constantemente. </h2>
 
-### Sobre mi
-- Tengo 29 años y soy de Buenos Aires, Argentina.
+###
+  
 ### Technologies
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
