@@ -12,8 +12,8 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 ### Mi contacto
-<a href="https://www.linkedin.com/in/maximiliano-adrian-alonso/"><img alt="LinkedIn" ></a>  
-<a href="maximiliano.alonso67@gmail.com"><img alt="Email" ></a>  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MaximilianoAlonso-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/maximiliano-adrian-alonso/)
+
 
 <!--![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
 
