@@ -13,7 +13,7 @@
 
 ### Mi contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MaximilianoAlonso-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/maximiliano-adrian-alonso/)
-
+<a href="mailto:maximiliano.alonso67@gmail.com">[![Email](https://img.shields.io/badge/Email-maximiliano.alonso67%40gmail.com-blue?style=social&logo=gmail)](mailto:maximiliano.alonso67@gmail.com)</a>
 
 <!--![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
 
