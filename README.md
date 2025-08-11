@@ -1,6 +1,4 @@
 <h1>Hola! soy Maximiliano Alonso <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>¡Bienvenido a mi espacio de desarrollo en GitHub! Soy un apasionado desarrollador de software con experiencia en una variedad de tecnologías. Mi enfoque principal es Java, pero me encanta explorar y aprender constantemente. </h2>
-
 ###
   
 ### Technologies
@@ -8,7 +6,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 ### Mi contacto
