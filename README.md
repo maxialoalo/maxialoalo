@@ -1,4 +1,4 @@
-<h1>Hola! soy Maximiliano Alonso <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h1>Hola! Soy Maximiliano Alonso <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 
 ### Mi contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/maximiliano-adrian-alonso/)
